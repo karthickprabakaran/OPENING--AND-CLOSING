@@ -56,15 +56,14 @@ cv2.waitKey(0)
 ## Output:
 
 ### Display the input Image
-![create 10](https://github.com/KRISHNARAJ-D/OPENING--AND-CLOSING/assets/119559695/09f5071f-124c-455b-9c9b-a3fa7d71f0ff)
+![WhatsApp Image 2024-05-07 at 6 07 53 PM (1)](https://github.com/karthickprabakaran/OPENING--AND-CLOSING/assets/166775653/eae08b89-181f-404f-9eba-37b13a42928b)
 
 
 ### Display the result of Opening
-
-![open 101 ](https://github.com/KRISHNARAJ-D/OPENING--AND-CLOSING/assets/119559695/9765d8e7-ae01-42ab-8a1a-ea3a3a25171f)
+![WhatsApp Image 2024-05-07 at 6 07 53 PM (2)](https://github.com/karthickprabakaran/OPENING--AND-CLOSING/assets/166775653/709332e3-9cc0-4a0d-aba9-c911ad8e08a5)
 
 ### Display the result of Closing
-![close 100 1](https://github.com/KRISHNARAJ-D/OPENING--AND-CLOSING/assets/119559695/815c5f11-b4b9-463d-9c1f-86a4cbad67bc)
+![WhatsApp Image 2024-05-07 at 6 07 53 PM (3)](https://github.com/karthickprabakaran/OPENING--AND-CLOSING/assets/166775653/717a8b2e-0d8c-41c0-830d-c1fbb2bff4ab)
 
 ## Result
 Thus the Opening and Closing operation is used in the image using python and OpenCV.
